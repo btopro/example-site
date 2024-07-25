@@ -93,23 +93,6 @@
       }
     },
     {
-      "id": "item-27c52380-7661-460f-a42c-9de199281a16",
-      "indent": 0,
-      "location": "pages/item-27c52380-7661-460f-a42c-9de199281a16/index.html",
-      "slug": "new-item-1",
-      "order": 1,
-      "parent": null,
-      "title": "New item",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1721933394,
-        "images": [],
-        "videos": [],
-        "updated": 1721933394
-      }
-    },
-    {
       "id": "item-04b3f496-0a67-4e0e-a7d0-70c9e69ae4cf",
       "indent": 0,
       "location": "pages/item-04b3f496-0a67-4e0e-a7d0-70c9e69ae4cf/index.html",
