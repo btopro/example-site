@@ -140,6 +140,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-8b6cb7c3-e47a-4ce7-bb8c-a30c430d9f8a",
+      "indent": 0,
+      "location": "pages/item-8b6cb7c3-e47a-4ce7-bb8c-a30c430d9f8a/index.html",
+      "slug": "page-2",
+      "order": 5,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721933981,
+        "updated": 1721933981,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
