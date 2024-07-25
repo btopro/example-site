@@ -65,14 +65,14 @@
       "slug": "new-item",
       "order": 0,
       "parent": null,
-      "title": "New item",
-      "description": "",
+      "title": "Hockey",
+      "description": "Hockey is an amazing sport\nbecause it isit's fastit's growing rapidly!ice is coool\nMake a heading\n\n\n\n\n",
       "metadata": {
         "locked": false,
         "created": 1721933394,
-        "images": [],
-        "videos": [],
-        "updated": 1721933394,
+        "images": {},
+        "videos": {},
+        "updated": 1721933558,
         "files": [
           {
             "path": "[object Object]HAX.psu-World-changer-circle.png",
@@ -82,7 +82,10 @@
             "name": "HAX.psu-World-changer-circle.png",
             "size": 1172092
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
