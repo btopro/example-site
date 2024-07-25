@@ -72,7 +72,17 @@
         "created": 1721933394,
         "images": [],
         "videos": [],
-        "updated": 1721933394
+        "updated": 1721933394,
+        "files": [
+          {
+            "path": "[object Object]HAX.psu-World-changer-circle.png",
+            "fullUrl": "//media/bto108a/AtticStorage/git/btopro/what-do-you-know/files/HAX.psu-World-changer-circle.png",
+            "url": "files/HAX.psu-World-changer-circle.png",
+            "type": "image/png",
+            "name": "HAX.psu-World-changer-circle.png",
+            "size": 1172092
+          }
+        ]
       }
     },
     {
