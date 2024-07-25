@@ -14,7 +14,7 @@
         "publishPagesOn": true
       },
       "created": 1721933356,
-      "updated": 1721933356,
+      "updated": 1721933394,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -46,15 +46,51 @@
       "indent": 0,
       "location": "pages/item-b511073f-eb4d-40e4-a2aa-2844653fa2a5/index.html",
       "slug": "welcome",
-      "order": 0,
+      "order": 2,
       "parent": null,
       "title": "Welcome",
       "description": "",
       "metadata": {
         "created": 1721933356,
-        "updated": 1721933356
+        "updated": 1721933394,
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-bd65814a-a73c-4fd8-8b93-4a903fae8498",
+      "indent": 0,
+      "location": "pages/item-bd65814a-a73c-4fd8-8b93-4a903fae8498/index.html",
+      "slug": "new-item",
+      "order": 0,
+      "parent": null,
+      "title": "New item",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1721933394,
+        "images": [],
+        "videos": [],
+        "updated": 1721933394
+      }
+    },
+    {
+      "id": "item-27c52380-7661-460f-a42c-9de199281a16",
+      "indent": 0,
+      "location": "pages/item-27c52380-7661-460f-a42c-9de199281a16/index.html",
+      "slug": "new-item-1",
+      "order": 1,
+      "parent": null,
+      "title": "New item",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1721933394,
+        "images": [],
+        "videos": [],
+        "updated": 1721933394
       }
     }
-  ],
-  "location": "/_sites/what-do-you-know/index.html"
+  ]
 }
