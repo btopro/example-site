@@ -108,6 +108,22 @@
         "videos": [],
         "updated": 1721933394
       }
+    },
+    {
+      "id": "item-08d304e2-3d86-4759-a561-cc2b4d205ab5",
+      "indent": 0,
+      "location": "pages/item-08d304e2-3d86-4759-a561-cc2b4d205ab5/index.html",
+      "slug": "page",
+      "order": 3,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721933979,
+        "updated": 1721933979,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
