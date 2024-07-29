@@ -114,15 +114,19 @@
       "indent": 0,
       "location": "pages/item-04b3f496-0a67-4e0e-a7d0-70c9e69ae4cf/index.html",
       "slug": "page-1",
-      "order": 4,
+      "order": 2,
       "parent": null,
       "title": "Page",
-      "description": "",
+      "description": "This is a really great page to demonstrate how awesome web components are\n\nHeading\nItemItem\n\n\n\n\n\n\n\nAccent CardA card with optional accent stylings.This card is highly customizable to contain any cont",
       "metadata": {
         "created": 1721933980,
-        "updated": 1721933980,
-        "images": [],
-        "videos": []
+        "updated": 1722266416,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {
