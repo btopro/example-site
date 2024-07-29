@@ -1,0 +1,145 @@
+{
+  "id": "74a72bdb-16ba-4d31-a3f9-e23eef469c38",
+  "title": "what-do-you-know",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
+    "site": {
+      "name": "what-do-you-know",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "pathauto": false,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
+      },
+      "created": 1721933356,
+      "updated": 1721933991,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      },
+      "version": "9.0.2",
+      "domain": null,
+      "tags": null,
+      "static": {}
+    },
+    "theme": {
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean two theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "variables": {
+        "image": "",
+        "imageAlt": null,
+        "imageLink": null,
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "icon": "av:library-add"
+      },
+      "regions": {}
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "9.0.2",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-b511073f-eb4d-40e4-a2aa-2844653fa2a5",
+      "indent": 0,
+      "location": "pages/item-b511073f-eb4d-40e4-a2aa-2844653fa2a5/index.html",
+      "slug": "welcome",
+      "order": 2,
+      "parent": null,
+      "title": "Welcome",
+      "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
+      "metadata": {
+        "created": 1721933356,
+        "updated": 1721933583,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-bd65814a-a73c-4fd8-8b93-4a903fae8498",
+      "indent": 0,
+      "location": "pages/item-bd65814a-a73c-4fd8-8b93-4a903fae8498/index.html",
+      "slug": "new-item",
+      "order": 0,
+      "parent": null,
+      "title": "Hockey",
+      "description": "Hockey is an amazing sport\nbecause it isit's fastit's growing rapidly!ice is coool\nMake a heading\n\n\n\n\n",
+      "metadata": {
+        "locked": false,
+        "created": 1721933394,
+        "images": {},
+        "videos": {},
+        "updated": 1721933558,
+        "files": [
+          {
+            "path": "[object Object]HAX.psu-World-changer-circle.png",
+            "fullUrl": "//media/bto108a/AtticStorage/git/btopro/what-do-you-know/files/HAX.psu-World-changer-circle.png",
+            "url": "files/HAX.psu-World-changer-circle.png",
+            "type": "image/png",
+            "name": "HAX.psu-World-changer-circle.png",
+            "size": 1172092
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-04b3f496-0a67-4e0e-a7d0-70c9e69ae4cf",
+      "indent": 0,
+      "location": "pages/item-04b3f496-0a67-4e0e-a7d0-70c9e69ae4cf/index.html",
+      "slug": "page-1",
+      "order": 4,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721933980,
+        "updated": 1721933980,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
+      "id": "item-8b6cb7c3-e47a-4ce7-bb8c-a30c430d9f8a",
+      "indent": 0,
+      "location": "pages/item-8b6cb7c3-e47a-4ce7-bb8c-a30c430d9f8a/index.html",
+      "slug": "page-2",
+      "order": 5,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721933981,
+        "updated": 1721933981,
+        "images": [],
+        "videos": []
+      }
+    }
+  ]
+}
